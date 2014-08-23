@@ -1,0 +1,22 @@
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes.dex : \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$9.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/com/borismus/webintent/WebIntent.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/HelloCordova.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/var/www/NFC_WebIntent/platforms/android/ant-build/dexedLibs/classes-5efe4b4a62dbe782d63d16e1f7e021cd.jar \
